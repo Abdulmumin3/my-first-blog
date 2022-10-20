@@ -1,5 +1,4 @@
 body {
-  padding-left: 15px;
   font-family: sans-serif;
 }
 .page-header {
@@ -50,11 +49,11 @@ h4 {
 }
 .btn-secondary,
 .btn-secondary:visited {
-  color: #c25100;
+  /* color: #c25100; */
   background: none;
-  background-color: #c25100;
+  background-color: #ffffff;
 }
 .btn-secondary:hover {
-  color: #ffffff;
+  /* color: #ffffff; */
   background-color: #c25100;
 }
